@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar los planes de Doom
+* Investigar los planes de Doom.
+* Capturar a Red Skull.
